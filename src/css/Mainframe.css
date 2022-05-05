@@ -1,0 +1,24 @@
+#mainframe {
+  background-color: rgb(65, 65, 65);
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+#menu-btn {
+  position: absolute;
+  top: 1em;
+  left: 1em;
+  background-color: rgb(216, 216, 216);
+}
+
+#title {
+  display: inline;
+  position: absolute;
+  left: 50%;
+  top: 1em;
+  transform: translateX(-50%);
+  color: rgb(231, 231, 231);
+}
